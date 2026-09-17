@@ -1,6 +1,5 @@
 <hr>
-[文件說明](doc/Java_WindowBuilder_商務實作題_稍難_JaggedArray_企業專案報價成本管理.docx)<br>
-(doc/stor_v4.md)<br>
+[文件說明](doc/Java_WindowBuilder.docx)
 
 # 成本報價管理系統 (Cost & Quote System)
 
