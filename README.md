@@ -1,3 +1,7 @@
+<hr>
+[文件說明](doc/Java_WindowBuilder_商務實作題_稍難_JaggedArray_企業專案報價成本管理.docx)<br>
+(doc/stor_v4.md)<br>
+
 # 成本報價管理系統 (Cost & Quote System)
 
 本專案是一個基於 **Java 標準視窗技術 (Swing/AWT)** 開發的桌上型應用程式。主要功能為提供企業或業務人員進行**產品成本估算、利潤分析與自動化報價生成**。專案採用標準的 MVC（模型-視圖）分離設計思維，具備良好的模組化結構。
