@@ -25,13 +25,7 @@ Cost/
 ├── bin/                         # 編譯輸出目錄 (Bytecode)
 │   └── com/
 │       ├── quote.class          # quote.java 編譯後的類別檔
-│       ├── quoteUI.class        # quoteUI.java 主視窗類別檔
-│       ├── quoteUI$1.class      # 匿名內部類別 1 (介面事件監聽)
-│       ├── quoteUI$2.class      # 匿名內部類別 2 (介面事件監聽)
-│       ├── quoteUI$3.class      # 匿名內部類別 3 (介面事件監聽)
-│       ├── quoteUI$4.class      # 匿名內部類別 4 (介面事件監聽)
-│       ├── quoteUI$5.class      # 匿名內部類別 5 (介面事件監聽)
-│       └── quoteUI$6.class      # 匿名內部類別 6 (介面事件監聽)
+│       ├── quoteUI.class        # quoteUI.java 主視窗類別檔│     
 │
 └── .settings/                   # Eclipse 專案特定編譯與編碼設定
 ```
